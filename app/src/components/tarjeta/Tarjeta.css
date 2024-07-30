@@ -1,0 +1,25 @@
+.card-section {
+    background: linear-gradient(rgba(0,0,0,1) 0%, rgba(202,194,205,1) 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 20%;
+    border-radius: 20px;
+    color: white;
+}
+
+.card-titulo-tarjeta {
+    padding-top: 5px;
+    text-shadow: 2px 2px 1px black;
+}
+
+.card-descripcion {
+    padding: 20px;
+}
+
+.card-imagen {
+    width: 300px;
+    height: auto;
+    border-radius: 15px;
+}
